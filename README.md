@@ -16,3 +16,9 @@ Contains Elixir for compiling and testing Elixir projects.  Can be used with Phe
 Contains Elixir and NodeJS for compiling and testing Phoenix Framework projects.
 
   - [Phoenix v1.4.9](phoenix_framework/1.4.9/) default command: `mix`
+
+### NodeJS
+
+Contains NodeJS w/ npm for compiling and testing NodeJS projects.
+
+  - [NodeJS v12.6.0](nodejs/12.6.0/) default command: `npm`
